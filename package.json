@@ -1,0 +1,25 @@
+{
+  "name": "mental-math-engine",
+  "version": "1.0.0",
+  "description": "High-performance mental math problem generator and arbitrary-precision rational arithmetic engine",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/math.test.js"
+  },
+  "keywords": [
+    "mental-math",
+    "math",
+    "arithmetic",
+    "rational",
+    "fractions",
+    "generator",
+    "latex",
+    "bigint"
+  ],
+  "author": "Sepehr",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
